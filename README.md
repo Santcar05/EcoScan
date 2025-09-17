@@ -42,19 +42,4 @@ Este proyecto nace como idea de **startup innovadora en sostenibilidad**, con el
 
 ---
 
-## 🖼️ Mockup de la primera pantalla (Inicio)
 
-```json
-{
-  "Pantalla": "Inicio",
-  "Botones": [
-    {"nombre": "Escanear", "estilo": "Botón circular con gradiente verde", "acción": "Abrir cámara o galería"},
-    {"nombre": "Ver Historial", "estilo": "Botón rectangular con borde suave", "acción": "Ir al historial"}
-  ],
-  "Colores": {
-    "Primario": "#2E7D32",
-    "Secundario": "#81C784",
-    "Fondo": "#F6FFF7",
-    "Texto": "#0B3D20"
-  }
-}
